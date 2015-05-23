@@ -2,7 +2,7 @@
 
 Small test cases to test machine learning. Each case contains main.py file.
 
-1. [Simple coin game](1/README.md)
+1. [Simple coin game](1/)
 
 
 ## Install
