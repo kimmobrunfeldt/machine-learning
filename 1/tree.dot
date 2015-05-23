@@ -1,0 +1,11 @@
+digraph Tree {
+0 [label="coin <= 0.5000\nentropy = 0.791698500125\nsamples = 1000", shape="box"] ;
+1 [label="entropy = 0.0000\nsamples = 506\nvalue = [ 506.    0.]", shape="box"] ;
+0 -> 1 ;
+2 [label="bet <= 0.5000\nentropy = 0.999042074363\nsamples = 494", shape="box"] ;
+0 -> 2 ;
+3 [label="entropy = 0.0000\nsamples = 256\nvalue = [ 256.    0.]", shape="box"] ;
+2 -> 3 ;
+4 [label="entropy = 0.0000\nsamples = 238\nvalue = [   0.  238.]", shape="box"] ;
+2 -> 4 ;
+}
